@@ -1,0 +1,5 @@
+transport_mode,shipments,avg_delivery_days,avg_cost_inr,on_time_rate,avg_distance_km
+Air,46,2.24,3972.49,0.72,430.43
+Rail,65,2.87,1380.11,0.72,445.82
+Road,160,3.01,2004.97,0.58,402.2
+Sea,29,6.09,1020.51,0.72,406.01

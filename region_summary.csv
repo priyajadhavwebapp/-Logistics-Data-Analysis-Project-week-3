@@ -1,0 +1,6 @@
+region,shipments,avg_delivery_days,avg_cost_inr,on_time_rate
+Central,34,3.23,2185.12,0.59
+East,47,3.34,1890.83,0.57
+North,64,3.39,2327.25,0.62
+South,92,3.09,2039.59,0.67
+West,63,2.83,1953.7,0.71
